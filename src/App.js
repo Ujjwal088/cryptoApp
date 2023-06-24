@@ -44,13 +44,13 @@ const App = () => (
           level={5}
           style={{ color: "white", textAlign: "center" }}
         >
-          Copyright © 2022
+          Copyright © 2023
           <Link to="/"> Krypt Inc.</Link>
           <br />
           All Rights Reserved.
           <br />
           Designed and Crafted by{" "}
-          <a href="https://github.com/SynTax19"> SynTax19 </a>
+          <a href="https://github.com/Ujjwal088"> Ujjwal088 </a>
         </Typography.Title>
         <Space>
           <Link to="/">Home</Link>
